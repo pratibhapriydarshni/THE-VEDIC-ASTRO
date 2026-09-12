@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # THE VEDIC ASTRO — V52 Production Integration Release
 
 V52 is the next cumulative production-candidate layer over V51. It focuses on making the booking and operational path stricter and safer rather than adding another isolated demo module.
@@ -21,3 +22,7 @@ This is still a **production candidate**, not a claim that third-party accounts 
 
 ## V53 verification
 Run `npm run test:business-rules` before staging deployment. Then run `npm run typecheck` and `npm run build` in the deployment environment.
+=======
+# THE-VEDIC-ASTRO
+Vedic Astro is a modern astrology platform that brings traditional Vedic astrology into a simple, user-friendly digital experience. Explore birth charts, zodiac signs, planetary insights, and personalized astrology features through a clean and responsive web application.
+>>>>>>> 62cd8c53d6b12c7c7d906ee5d4e187948290e393
